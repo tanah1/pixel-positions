@@ -1,7 +1,7 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
+<a href="https://github.com/laravel/framework/actions"><img src="https://www.bing.com/images/search?view=detailV2&ccid=Kgb00Cpp&id=17E53B17363B5AEF2F5B5A248E4B5CF5364C3D5D&thid=OIP.Kgb00CppWEx3SyjucN8_JQHaEo&mediaurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.2a06f4d02a69584c774b28ee70df3f25%3frik%3dXT1MNvVcS44kWg%26riu%3dhttp%253a%252f%252feskipaper.com%252fimages%252fnature-27.jpg%26ehk%3dLY39AAHbOwiAg9rcwkGtL1FwCVWrT4gYRYD0rAL76dw%253d%26risl%3d%26pid%3dImgRaw%26r%3d0&exph=1200&expw=1920&q=phpotos&simid=608028913202445263&FORM=IRPRST&ck=307186B9F5733887B7B7A8076D9AE7F2&selectedIndex=2&itb=0" alt="Build Status"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
